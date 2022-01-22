@@ -1,0 +1,10 @@
+/* Root Style */
+
+:root {
+  --section-bg: #feeae9;
+}
+
+/* Hero Section Style */
+.hero-section {
+  background-color: var(--section-bg);
+}
